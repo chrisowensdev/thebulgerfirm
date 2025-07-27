@@ -9,7 +9,7 @@ export default function Hero() {
 		<section className="container flex flex-col md:flex-row items-center bg-white pt-20">
 			{/* Text Side */}
 			<motion.div
-				className="w-full md:w-1/2 px-6 py-12"
+				className="w-full md:w-1/2 lg:px-15 px-6 py-12"
 				initial={{ x: -50, opacity: 0 }}
 				animate={{ x: 0, opacity: 1 }}
 				transition={{ duration: 0.6, ease: "easeOut" }}
