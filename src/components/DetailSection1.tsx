@@ -10,8 +10,8 @@ export default function DetailSection1() {
 			{/* Text Side */}
 			<motion.div
 				className="w-full md:w-1/2 px-6 mt-8 md:mt-0"
-				initial={{ x: -100, opacity: 0 }}
-				whileInView={{ x: 0, opacity: 1 }}
+				initial={{ opacity: 0 }}
+				whileInView={{ opacity: 1 }}
 				viewport={{ once: true, amount: 0.3 }}
 				transition={{ duration: 0.8, ease: "easeOut", delay: 0.3 }}
 			>
@@ -34,8 +34,8 @@ export default function DetailSection1() {
 			{/* Image Side */}
 			<motion.div
 				className="w-full md:w-1/2 overflow-hidden"
-				initial={{ x: 100, opacity: 0 }}
-				whileInView={{ x: 0, opacity: 1 }}
+				initial={{ opacity: 0 }}
+				whileInView={{ opacity: 1 }}
 				viewport={{ once: true, amount: 0.3 }}
 				transition={{ duration: 0.8, ease: "easeOut" }}
 			>
