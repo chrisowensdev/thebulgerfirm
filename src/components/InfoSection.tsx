@@ -52,14 +52,14 @@ export default function InfoSection() {
 					to the end of your case and beyond. With our knowledge,
 					skill and expertise in the law, we work tirelessly to secure
 					the best outcomes for our clients to ensure that our
-					clients' best interests are protected, both now and in the
-					future.
+					clients&apos; best interests are protected, both now and in
+					the future.
 				</p>
 				<br />
 				<p className="text-sm text-white">
-					If you're facing a family law or personal injury case, you
-					may feel alone-- but you're not. At The Bulger Firm, our
-					family stands with yours.
+					If you&apos;re facing a family law or personal injury case,
+					you may feel alone-- but you&apos;re not. At The Bulger
+					Firm, our family stands with yours.
 				</p>
 			</motion.div>
 		</section>

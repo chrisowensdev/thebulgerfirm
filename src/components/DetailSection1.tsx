@@ -23,12 +23,12 @@ export default function DetailSection1() {
 				</h3>
 				<p className="text-sm text-gray-700 mb-4">
 					Family comes first. Every family is unique, and every family
-					law case requires a unique approach. There is no "one size
-					fits all" solution and we'll work to find the best solution
-					for you. You can count on communication with your attorney
-					and being kept informed throughout your case. We make
-					decisions with you, not for you, and make sure you know your
-					case is as much our priority as it is yours.
+					law case requires a unique approach. There is no &ldquo;one
+					size fits all&ldquo; solution and we&apos;ll work to find
+					the best solution for you. You can count on communication
+					with your attorney and being kept informed throughout your
+					case. We make decisions with you, not for you, and make sure
+					you know your case is as much our priority as it is yours.
 				</p>
 			</motion.div>
 			{/* Image Side */}

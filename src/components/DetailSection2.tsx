@@ -40,7 +40,7 @@ export default function DetailSection2() {
 					An accident can change your life in an instant. An injury
 					can affect your ability to work, pay your bills or just live
 					your life the way you want. When that happens, you may feel
-					overwhelmed and alone. If you've been injured in an
+					overwhelmed and alone. If you&apos;ve been injured in an
 					accident, whether you were the driver, passenger or customer
 					in an Uber, Lyft or rideshare service, you have rights. Our
 					attorneys stand up for your rights every step of the way to
