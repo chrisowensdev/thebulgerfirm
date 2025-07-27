@@ -1,5 +1,6 @@
 // components/AwardsSection.tsx
 "use client";
+import Image from "next/image";
 import React from "react";
 
 const awards = [
@@ -38,7 +39,12 @@ export default function AwardsSection() {
 							target="_blank"
 							href={link}
 						>
-							<img src={img} alt={title} />
+							<Image
+								src={img}
+								alt={title}
+								width={200}
+								height={200}
+							/>
 						</a>
 					))}
 				</div>
